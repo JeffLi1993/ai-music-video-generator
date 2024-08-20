@@ -4,7 +4,7 @@
 
 It uses NodeJS, React, NextJS, Typescript, OpenAI, Remotion.
 
-From a set of song lyrics, it uses open-ai to create a set of images to go with the song and then uses remotion to add them to a video.
+[AI Music Video Generator](https://www.topview.ai/make/ai-music-video-generator) From a set of song lyrics, it uses open-ai to create a set of images to go with the song and then uses remotion to add them to a video.
 
 You can also edit the captions via the user interface.
 
